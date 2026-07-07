@@ -76,15 +76,25 @@ bcryptjs
 Nutrition Assistant Application/
 │
 ├── frontend/        # React Application
+
 │   ├── src/
+
 │   ├── public/
+
 │   └── package.json
+
 │
 ├── backend/         # Node.js + Express Server
+
 │   ├── config/      # Database configuration
+
 │   ├── controllers/ # Business logic
+
 │   ├── models/      # Mongoose schemas
+
 │   ├── middleware/  # Auth middleware
+
 │   └── server.js
+
 │
 └── README.md
