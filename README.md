@@ -44,3 +44,47 @@ Smooth animations using Framer Motion
 Notifications with React Toastify
 
 Client-side routing using React Router
+
+🏗️ Tech Stack
+
+Frontend
+
+React (Vite)
+
+Tailwind CSS
+
+Axios
+
+React Router DOM
+
+Framer Motion
+
+Backend
+
+Node.js
+
+Express.js
+
+MongoDB (Mongoose)
+
+JWT Authentication
+
+bcryptjs
+
+📂 Project Structure
+
+Nutrition Assistant Application/
+│
+├── frontend/        # React Application
+│   ├── src/
+│   ├── public/
+│   └── package.json
+│
+├── backend/         # Node.js + Express Server
+│   ├── config/      # Database configuration
+│   ├── controllers/ # Business logic
+│   ├── models/      # Mongoose schemas
+│   ├── middleware/  # Auth middleware
+│   └── server.js
+│
+└── README.md
