@@ -36,7 +36,11 @@ Protected APIs with middleware
 Environment variable configuration
 
 🎨 Frontend Experience
+
 Responsive UI built with React + Tailwind CSS
+
 Smooth animations using Framer Motion
+
 Notifications with React Toastify
+
 Client-side routing using React Router
