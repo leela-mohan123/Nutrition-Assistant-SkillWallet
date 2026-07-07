@@ -9,21 +9,30 @@ This project demonstrates strong full-stack development skills, including fronte
 
 👤 User Management
 Secure user registration and login
+
 Password hashing using bcrypt
+
 JWT-based authentication for protected routes
 
 🍽️ Meal Tracking
 Add, update, and delete meals
+
 Store meal details with nutritional information
+
 View personal meal history
 
 📊 Nutrition Monitoring
+
 Track calorie intake and meal patterns
+
 Structured data storage for easy analysis
 
 🔐 Security
+
 Token-based authentication (JWT)
+
 Protected APIs with middleware
+
 Environment variable configuration
 
 🎨 Frontend Experience
